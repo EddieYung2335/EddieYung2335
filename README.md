@@ -21,7 +21,3 @@ I just wrapped up a project and I'm between builds. There are no cyber security 
 
 Email: [eddieyungworking21@gmail.com](mailto:eddieyungworking21@gmail.com)
 
-## Stats
-
-![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieYung2335&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieYung2335&layout=compact&hide_border=true)
