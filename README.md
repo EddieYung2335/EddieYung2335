@@ -24,5 +24,5 @@ Email: [eddieyungworking21@gmail.com](mailto:eddieyungworking21@gmail.com)
 ## Stats
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieYung2335&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieYung2335&layout=compact&hide_border=true)
